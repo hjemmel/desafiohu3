@@ -5,11 +5,15 @@
 ***Server***
 
 *cd desafiohu3/ofertas-server*
+
 *bundle install*
+
 *foreman start*
 
 ***Front***
 
 *cd desafiohu3/ofertas-client*
+
 *npm install*
+
 *npm start*
