@@ -16,5 +16,6 @@ ofertas-server/log/*
 !/log/.keep
 tmp
 
-.idea
-node_modules
+ofertas-server/.idea
+ofertas-client/.idea
+ofertas-client/node_modules
